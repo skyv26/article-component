@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![A design preview of my site](./images/screenshot.jpg)
+![A design preview of my site](./images/preview.png)
 
 
 ### Links
