@@ -37,7 +37,6 @@ body {
   width: 100%;
   text-align: center;
   visibility: hidden;
-
 }
 
 .main-component {
@@ -154,15 +153,6 @@ body {
   letter-spacing: 0.3rem;
 }
 
-/* 
-.share-btn:hover {
-  background-color: var(--desaturated-dark-blue);
-}
-
-.share-btn-img:hover {
-
-} */
-
 @media (max-width: 1366px) {
   body {
     max-width: 1366px;
@@ -173,9 +163,102 @@ body {
   }
 }
 
-/* @media (max-width: 375px){
+@media (max-width: 375px) {
   body {
     max-width: 375px;
   }
- 
-} */
+
+  .main-component {
+    max-width: 100vw;
+    display: flex;
+    flex-direction: column;
+    gap: 0rem;
+    background-color: white;
+    width: 88%;
+    overflow: hidden;
+    box-shadow: 0rem 1rem 2rem 0 rgba(72, 85, 106, 0.123);
+  }
+
+  .component-image {
+    height: 17rem;
+    width: 100%;
+    object-position: top;
+    object-fit: cover;
+    border-radius: 0.75rem;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    filter: brightness(102%);
+    margin-top: -1rem;
+  }
+  .component-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 1rem;
+    padding: 2rem 2rem 1.5rem 2rem;
+    /* color: var(--very-dark-grayish-blue); */
+  }
+
+  .component-title {
+    font-size: 1.3rem;
+  }
+
+  .component-desc {
+    word-break: keep-all;
+    text-align: left;
+    word-spacing: 0.2rem;
+    color: var(--desaturated-dark-blue);
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  .component-person--details {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1rem;
+    visibility: visible;
+  }
+
+  .tool-tip {
+    position: absolute;
+    width: 100%;
+    right: 0;
+    top: 77%;
+    height: 5rem;
+    /* background-color: green; */
+    background-color: var(--very-dark-grayish-blue);
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding: 1rem 3rem;
+    border-radius: 0;
+    box-shadow: 0.15rem 0.15rem 0.5rem 0rem rgba(72, 85, 106, 0.459);
+    visibility: hidden;
+    /* transform: translate(65%); */
+  }
+  
+  .arrow-d {
+    display: none;
+    position: relative;
+    width: 3rem;
+    height: 3rem;
+    /* top: 50%; */
+    left: 50%;
+    transform: translate(-50%, -22%);
+    bottom: -2.4rem;
+    outline: none;
+    /* box-shadow: 0.15rem 0.15rem 0.5rem 0rem rgba(72, 85, 106, 0.459); */
+  }
+  
+  .tool-tip p {
+    text-transform: uppercase;
+    color: var(--grayish-blue);
+    letter-spacing: 0.3rem;
+  }
+}
