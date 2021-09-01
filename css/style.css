@@ -36,7 +36,8 @@ body {
 .main-header {
   width: 100%;
   text-align: center;
-  visibility: hidden;
+  padding: 1rem 0 0 0;
+  visibility: visible;
 }
 
 .main-component {
