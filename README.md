@@ -1,11 +1,3 @@
-
-### Links
-
-- Solution URL: [Github](https://github.com/skyv26/article-component)
-- Live Site URL: [Github Pages](https://skyv26.github.io/article-component/)
-
-
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./images/preview.png" alt="logo" width="140"  height="auto" />
@@ -108,14 +100,11 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/article-component.git
 ```
---->
 
 ### Install
 
