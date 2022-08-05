@@ -286,11 +286,12 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Aakash Verma**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@skyv26](https://github.com/skyv26)
+- Twitter: [@vrma_aakash](https://twitter.com/vrma_aakash)
+- LinkedIn: [skyv2022](https://linkedin.com/in/skyv2022)
+- Frontend Mentor: [@skyv26](https://www.frontendmentor.io/profile/skyv26)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
