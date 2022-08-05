@@ -145,7 +145,7 @@ HTML, CSS, REACT JS, JAVASCRIPT
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Project](https://skyv26.github.io/article-component/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
