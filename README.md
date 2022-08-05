@@ -106,30 +106,12 @@ Clone this repository to your desired folder:
   git clone https://github.com/skyv26/article-component.git
 ```
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
 ```
---->
+Please use the VSCode and with the help of live
+server extension run it directly.
+```
 
 ### Run tests
 
