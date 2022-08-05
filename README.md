@@ -1,25 +1,9 @@
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- Only Interaction
-
-
-### Screenshot
-
-![A design preview of my site]()
-
 
 ### Links
 
 - Solution URL: [Github](https://github.com/skyv26/article-component)
 - Live Site URL: [Github Pages](https://skyv26.github.io/article-component/)
 
-## My process
-
-### Built with
 
 
 <div align="center">
@@ -70,23 +54,16 @@ Users should be able to:
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.com/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>CSS</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
