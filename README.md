@@ -73,8 +73,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Project](https://skyv26.github.io/article-component/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
