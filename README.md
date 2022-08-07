@@ -122,8 +122,6 @@ You can deploy this project using gh-pages or other platforms like vercel.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Aakash Verma**
 
 - GitHub: [@skyv26](https://github.com/skyv26)
