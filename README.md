@@ -32,8 +32,6 @@
 
 # 📖 Article preview component <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Article preview component** is a vanilla js project by adding some interactions and make it fully responsive.
 
 ## 🛠 Built With <a name="built-with"></a>
