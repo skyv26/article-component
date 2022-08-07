@@ -31,10 +31,8 @@ body {
 
 .container {
   padding: 1rem 2rem;
-  /* height: 100vh; */
   display: flex;
   flex-direction: column;
-  /* background-color: cadetblue; */
   gap: 2.5rem;
 }
 
@@ -45,7 +43,6 @@ body {
 }
 
 .main-component {
-  /* height: 39rem; */
   border-radius: 0.8rem;
   background-color: white;
   overflow: hidden;
@@ -78,10 +75,9 @@ body {
     line-height: 1.5;
 }
 
-
 .paragraph {
     font-size: 1rem;
-    line-height: 1.6;<
+    line-height: 1.6;
 }
 
 .branding {
