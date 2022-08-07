@@ -174,23 +174,6 @@ If you like this project, show your support by giving a star.
 
 I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 
-git commit --date="Aug 7 20222" -m 'Update `Acknowledgement` section'
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
