@@ -137,8 +137,6 @@ You can deploy this project using gh-pages or other platforms like vercel.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **Add more breakpoints to make it responsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
